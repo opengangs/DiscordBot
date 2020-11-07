@@ -1,0 +1,13 @@
+{
+    "events": [
+         {
+            "name": "MathSoc Director Recruitment 2021",
+            "desc": "Some description"
+        },
+
+        {
+            "name": "MathSoc Revision Seminars",
+            "desc": "Some description"
+        }
+    ]
+}

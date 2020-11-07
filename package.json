@@ -1,0 +1,15 @@
+{
+  "name": "mathsocbot",
+  "version": "1.0.0",
+  "description": "A bot maintained by Gerald Huang for use in 2021 to administer things within the MathSoc discord.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mathsocbot.js"
+  },
+  "author": "Gerald Huang",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
